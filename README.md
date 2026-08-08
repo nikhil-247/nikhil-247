@@ -1,144 +1,154 @@
-# Hi, I'm Nikhil Kushwaha 👋
+<h1 align="center">Hi, I'm Nikhil Kushwaha 👋</h1>
 
-### Computer Science (Data Science) Student | Software Engineering | AI/ML | Data
+<p align="center">
+  <b>Computer Science (Data Science) Student</b> · Software Engineering · AI/ML · Data
+</p>
 
-I'm a Computer Science & Data Science undergraduate at Rungta College of Engineering & Technology, Bhilai, interested in building practical software, intelligent systems, and data-driven applications.
-
-I enjoy working across the stack, from designing backend APIs and data pipelines to developing machine learning and AI-powered applications.
-
-- 🎓 B.Tech CSE (Data Science), 2023–2027
-- 💻 Interested in Software Engineering, Backend Development, AI/ML & Data
-- 🏆 Smart India Hackathon 2025 Finalist
-- 🏆 National-level Hackathon Winner
-- 🧠 150+ Data Structures & Algorithms problems solved
-- 🔬 Worked on AI, Machine Learning, Computer Vision and Data Analytics projects
-- 📜 Patent applications in AI and technology
-- 👥 Built and led a 700+ member technical community
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-kushwaha-265880273">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:nikhilkushwaha6027@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/nikhil-247">GitHub</a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-**Languages**
+I'm a Computer Science & Data Science undergraduate at
+**Rungta College of Engineering & Technology, Bhilai**, interested in building
+software, intelligent systems, and data-driven applications.
 
-Python · Java · SQL · C
+I enjoy working across **software engineering, backend development,
+machine learning, AI, and data analytics**, with a focus on turning
+real-world problems into practical technical solutions.
 
-**Core CS**
+- 🎓 B.Tech CSE (Data Science) · 2023–2027
+- 💻 Interested in Software Engineering, AI/ML & Data
+- 🧠 150+ Data Structures & Algorithms problems solved
+- 🏆 Smart India Hackathon 2025 Finalist
+- 🏆 National-level Hackathon Winner
+- 👥 Community Head of a 700+ member developer community
+- 🔬 Experience with AI, ML, Computer Vision and Data Analytics
 
-Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+---
 
-**AI / Machine Learning**
+## 🛠️ Tech Stack
 
-Scikit-learn · TensorFlow · PyTorch · NLP · LLMs · Computer Vision
+### Languages
+`Python` `Java` `SQL` `C`
 
-**Backend & Frameworks**
+### Core Computer Science
+`Data Structures & Algorithms` `OOP` `DBMS`
+`Operating Systems` `Computer Networks`
 
-Flask · FastAPI · REST APIs · React
+### AI / Machine Learning
+`Scikit-learn` `TensorFlow` `PyTorch` `NLP`
+`LLMs` `Computer Vision`
 
-**Data & Analytics**
+### Backend & Development
+`Flask` `FastAPI` `REST APIs` `React`
 
-Pandas · NumPy · Matplotlib · Power BI · Tableau
+### Data & Analytics
+`Pandas` `NumPy` `Matplotlib`
+`Power BI` `Tableau`
 
-**Databases**
-
-MySQL · MongoDB · Firebase
-
-**Tools & Platforms**
-
-Git · Docker · Linux · Google Cloud · MLflow · Jupyter
+### Databases & Tools
+`MySQL` `MongoDB` `Firebase`
+`Git` `Docker` `Linux` `Google Cloud` `MLflow`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Tarang – AI-Powered Network Threat Detection
+### 🔐 Tarang
+**AI-Powered Network Threat Detection Platform**
 
-Smart India Hackathon 2025 Finalist
+Smart India Hackathon 2025 Finalist.
 
-Protocol-aware threat detection and anomaly analysis system designed to identify suspicious communication patterns and support intelligent security monitoring.
+Built protocol-aware anomaly detection and monitoring workflows
+for identifying suspicious communication patterns and supporting
+intelligent threat classification.
 
-**Focus:** Python · Machine Learning · Anomaly Detection · Network Security
+**Python · Machine Learning · Anomaly Detection**
 
 ---
 
 ### 🚨 Real-Time Emergency Response Platform
 
-National Hackathon Winner
+National-level Hackathon Winner.
 
-Real-time emergency coordination platform integrating AI-assisted incident monitoring, backend services, location tracking, offline communication and operational dashboards.
+Developed a real-time emergency coordination platform with
+AI-assisted incident monitoring, backend APIs, geospatial tracking,
+and intelligent resource coordination.
 
-**Focus:** Python · Flask · REST APIs · Real-Time Systems · AI
+**Python · Flask · REST APIs · Real-Time Systems**
 
 ---
 
-### 👁️ Simhastha Smart Crowd Analytics Platform
+### 👁️ Simhastha Smart Crowd Analytics
 
-Top 300 – National Innovation Challenge
+Top 300 · National Innovation Challenge.
 
-AI-powered crowd monitoring system using computer vision for crowd density estimation, object detection, anomaly identification and real-time analytics.
+Developed a computer vision-based crowd analytics system for
+crowd density estimation, object detection, anomaly identification,
+and real-time monitoring.
 
-**Focus:** Python · YOLO · OpenCV · Computer Vision · Analytics
+**Python · YOLO · OpenCV · Computer Vision**
 
 ---
 
 ### 📊 Data Analytics & Visualization Platform
 
-Full-stack analytics application for processing datasets, generating insights and presenting operational information through interactive dashboards.
+Built a data-driven analytics application for processing datasets,
+generating insights, and presenting information through interactive
+visualizations and dashboards.
 
-**Focus:** Python · Flask · SQL · Pandas · Data Visualization
-
----
-
-## 🏆 Achievements
-
-- Smart India Hackathon 2025 – Finalist
-- CIH 3.0 National Hackathon – Winner
-- Vyom 2025 AI Agent Showcase – Winner
-- Simhastha National Innovation Challenge – Top 300 Finalist
-- 150+ Data Structures & Algorithms problems solved
-- Recognized by the Hon'ble Governor of Chhattisgarh for innovation
+**Python · Flask · SQL · Pandas · Data Visualization**
 
 ---
 
-## 👨‍💻 Experience & Leadership
+## 💼 Experience
 
-**Process Executive (Data) Intern – Augtech NextWealth IT Pvt. Ltd.**
+**Process Executive (Data Intern)**  
+Augtech NextWealth IT Pvt. Ltd. · 2026
 
-Worked on data annotation, validation, preprocessing and quality assurance workflows supporting AI/ML systems.
+Worked on data annotation, preprocessing, validation, and
+quality assurance workflows supporting AI/ML systems.
 
-**Google Student Ambassador – Gemini AI Initiative**
+**Google Student Ambassador — Gemini AI Initiative**  
+2025
 
-Conducted Generative AI workshops and technical sessions for 400+ students.
+Selected among the Top 250 Google Student Ambassadors in India
+and conducted Generative AI sessions for 400+ students.
 
-**Executive Coordinator – RuBI Business Incubator**
+**Executive Coordinator — RuBI Business Incubator**  
+2025
 
-Supported startup incubation, technical validation and innovation initiatives.
+Supported startup incubation, technical validation, innovation
+programs, and CHESS 2025.
 
-**Community Head – Code Hideout**
+---
 
-Built and led a 700+ member developer community through technical workshops and peer mentoring.
+## 🏆 Highlights
+
+- 🥇 Winner — CIH 3.0 National Hackathon
+- 🥇 Winner — Vyom 2025 AI Agent Showcase
+- 🏆 Finalist — Smart India Hackathon 2025
+- 🏆 Top 300 — Simhastha National Innovation Challenge
+- 🧠 150+ DSA problems solved
+- 📜 Patent applications in technology and AI
+- 🏅 Recognized by the Hon'ble Governor of Chhattisgarh
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Backend Engineering
-- System Design
-- Machine Learning
-- Generative AI & LLM Applications
-- Cloud & DevOps
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/nikhil-kushwaha-265880273)
-
-[GitHub](https://github.com/nikhil-247)
-
-[Email](mailto:nikhilkushwaha6027@gmail.com)
-
----
-
-⭐ If you find any of my projects useful, feel free to explore the repositories.
+```text
+Data Structures & Algorithms
+Backend Engineering
+System Design
+Machine Learning
+Generative AI & LLM Applications
+Cloud & DevOps
