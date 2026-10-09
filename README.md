@@ -79,6 +79,21 @@ A Power BI dashboard exploring sales KPIs, product and customer trends, and regi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+## Certifications
+
+The links below open the credential pages.
+
+- [Oracle Cloud Infrastructure 2025 Certified Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8C378A6458E31A304C767353E05FCDCE485245BA503CAAE146EFA6D177D82DB0)  
+  Oracle Cloud
+- [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/JF4P1Q7KJ5I0)  
+  Coursera
+- [Docker Essentials: A Developer Introduction](https://courses.08hackathon.watsonx-challenge.ibm.com/certificates/46d98088bfa54461a6c23652e7c48583)  
+  IBM Developer Skills Network
+- [Data Analytics - Advanced Power BI and Cloud Data Integration](https://credsverse.com/credentials/8c57341a-070f-4fb5-ac82-7b773bf977e7)  
+  Credential verification
+- [Data Analyst Beginner Advanced Specialization](https://credsverse.com/credentials/04e14e28-2961-4a92-8b7a-58308e7804a8)  
+  Credential verification
+
 ## Coding Profiles
 
 <p align="center">
