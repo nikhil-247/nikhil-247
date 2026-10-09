@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-kushwaha-265880273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/nikhil/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/nikhil_283/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://github.com/nikhil-247"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:nikhilkushwaha6027@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -19,9 +19,9 @@
 
 ## About
 
-Hi, I'm Nikhil — a Computer Science and Data Science student who enjoys building practical software with Python, data, and AI. I work on projects that range from ML experiments and backend APIs to user-facing applications.
+I'm a Computer Science and Data Science student at RCET Bhilai. I mostly build with Python, APIs, data, and AI, and I like taking projects beyond a quick demo.
 
-I prefer projects that can be explained, tested, and evaluated honestly—not just demos with impressive-looking numbers.
+I try to test my projects properly and be clear about what works and what still needs work.
 
 - **Currently interested in:** backend engineering, applied ML, LLM applications, and data workflows
 - **Experience:** Data Intern at Augtech NextWealth; Executive Coordinator at RuBI Business Incubator
@@ -29,25 +29,25 @@ I prefer projects that can be explained, tested, and evaluated honestly—not ju
 
 ## Featured Projects
 
-### [Tarang — Network Threat Detection](https://github.com/nikhil-247/Tarang)
-A defensive network-flow analytics project combining Isolation Forest and Random Forest, with a FastAPI interface, automated tests, and a GitHub Actions benchmark workflow. The model is evaluated on the public NSL-KDD benchmark with an untouched test set; the README documents results and limitations.
+### [Tarang - Network Threat Detection](https://github.com/nikhil-247/Tarang)
+A network traffic analysis project that combines Isolation Forest and Random Forest. It includes a FastAPI endpoint, tests, and a reproducible evaluation on the public NSL-KDD test set. The repository also explains the results and current limitations.
 
 **Python · Scikit-learn · FastAPI · REST APIs · GitHub Actions**
 
-### [Self Love — AI Wellness Companion](https://github.com/nikhil-247/AI-Wellness-Assistant-project)
-An LLM-powered wellness companion with conversational support, browser voice interaction, mood-based suggestions, bedtime stories, and reminders. Built with React, Flask, and OpenRouter as a team project.
+### [Self Love - AI Wellness Companion](https://github.com/nikhil-247/AI-Wellness-Assistant-project)
+A team project built with React, Flask, and OpenRouter. It supports AI chat, browser voice input, mood-based music suggestions, bedtime stories, and reminders.
 
-**Recognition:** Winner — Vyom 2025 AI Agent Showcase
+**Recognition:** Winner - Vyom 2025 AI Agent Showcase
 
 **React · JavaScript · Python · Flask · LLM API**
 
-### [SimhaGuard 360 — Crowd-Safety Operations Prototype](https://github.com/nikhil-247/SimhaGuard-360)
-A React and TypeScript operations dashboard using Supabase for role-aware access, realtime crowd-zone updates, incident workflows, RFID distress records, and audit events. It is an engineering prototype; simulated integrations are documented in the repository.
+### [SimhaGuard 360 - Crowd-Safety Operations Prototype](https://github.com/nikhil-247/SimhaGuard-360)
+A React and TypeScript dashboard using Supabase for access control, live crowd-zone updates, incident tracking, RFID distress records, and audit events. This is a prototype, and simulated integrations are noted in the repo.
 
 **React · TypeScript · Supabase · PostgreSQL · Realtime**
 
-### [Super Mart Sales Analysis — Power BI](https://github.com/nikhil-247/Data-Analysis-for-Super-Mart-on-Power-BI)
-An interactive sales dashboard focused on business KPIs, customer and product trends, regional performance, and data visualization.
+### [Super Mart Sales Analysis - Power BI](https://github.com/nikhil-247/Data-Analysis-for-Super-Mart-on-Power-BI)
+A Power BI dashboard exploring sales KPIs, product and customer trends, and regional performance.
 
 **Power BI · Data Analysis · Data Visualization**
 
@@ -82,8 +82,8 @@ An interactive sales dashboard focused on business KPIs, customer and product tr
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/nikhil/">
-    <img src="https://leetcard.jacoblin.cool/nikhil?theme=dark&font=Inter&ext=heatmap" alt="LeetCode statistics and submission activity heatmap" />
+  <a href="https://leetcode.com/u/nikhil_283/">
+    <img src="https://leetcard.jacoblin.cool/nikhil_283?theme=dark&font=Inter&ext=heatmap" alt="LeetCode statistics and submission activity heatmap" />
   </a>
 </p>
 
@@ -94,26 +94,26 @@ An interactive sales dashboard focused on business KPIs, customer and product tr
 
 ## Highlights
 
-- **Winner** — Vyom 2025 AI Agent Showcase
-- **Winner** — CIH 3.0 and Hakatron 3.0 hackathons
-- **Finalist** — Smart India Hackathon 2025
-- **Top 300** — Simhastha National Innovation Challenge
-- **Google Student Ambassador** — Gemini AI Initiative; selected among the Top 250 ambassadors in India and conducted GenAI sessions for 400+ students
-- **Recognition** — Felicitated by the Hon’ble Governor of Chhattisgarh
+- **Winner** - Vyom 2025 AI Agent Showcase
+- **Winner** - CIH 3.0 and Hakatron 3.0 hackathons
+- **Finalist** - Smart India Hackathon 2025
+- **Top 300** - Simhastha National Innovation Challenge
+- **Google Student Ambassador** - Gemini AI Initiative. Selected among the Top 250 ambassadors in India; ran GenAI sessions for 400+ students
+- **Recognition** - Felicitated by the Hon’ble Governor of Chhattisgarh
 
 ## Experience & Community
 
-- **Process Executive (Data Intern) · Augtech NextWealth IT Pvt. Ltd.** — Worked on structured-data processing, validation, and quality checks for AI/ML workflows.
-- **Executive Coordinator · RuBI Business Incubator** — Supported startup-pitch evaluations and CHESS 2025 event operations.
-- **Community Head · Code Hideout** — Helped lead a student technical community of 700+ members focused on coding, AI, and software development.
+- **Process Executive (Data Intern), Augtech NextWealth IT Pvt. Ltd.** - Processed and checked structured data used in AI/ML workflows.
+- **Executive Coordinator, RuBI Business Incubator** - Helped with startup pitch evaluations and CHESS 2025 event operations.
+- **Community Head, Code Hideout** - Helped run a 700+ member student community around coding, AI, and software development.
 
 ## Patent Applications
 
-- **IoT-Enabled Adaptive Speed Breaker Energy Harvesting System with Blockchain Integration** — Application No. 202521015312
-- **AI-Driven Solar-Powered Cryopreservation System for Sustainable Artificial Insemination** — Application No. 202521015413
+- **IoT-Enabled Adaptive Speed Breaker Energy Harvesting System with Blockchain Integration** - Application No. 202521015312
+- **AI-Driven Solar-Powered Cryopreservation System for Sustainable Artificial Insemination** - Application No. 202521015413
 
 ---
 
 <p align="center">
-  <i>Building, testing, learning, and improving one project at a time.</i>
+  <i>Thanks for checking out my work.</i>
 </p>
