@@ -15,8 +15,6 @@
   <b>B.Tech CSE (Data Science) · Rungta College of Engineering & Technology, Bhilai · 2027</b>
 </p>
 
----
-
 ## About
 
 I'm a Computer Science and Data Science student at RCET Bhilai. I mostly build with Python, APIs, data, and AI, and I like taking projects beyond a quick demo.
@@ -61,6 +59,8 @@ A Power BI dashboard exploring sales KPIs, product and customer trends, and regi
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222)
 
+**DSA practice:** Java is my primary language for DSA. I have also solved LeetCode problems using Python 3.
+
 **Data, ML & AI**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -83,7 +83,7 @@ A Power BI dashboard exploring sales KPIs, product and customer trends, and regi
 
 <p align="center">
   <a href="https://leetcode.com/u/nikhil_283/">
-    <img src="https://leetcard.jacoblin.cool/nikhil_283?theme=dark&font=Inter&ext=heatmap" alt="LeetCode statistics and submission activity heatmap" />
+    <img src="https://leetcard.jacoblin.cool/nikhil_283?theme=dark&font=Inter&ext=heatmap&cache=0" alt="LeetCode statistics and submission activity heatmap" />
   </a>
 </p>
 
@@ -95,9 +95,10 @@ A Power BI dashboard exploring sales KPIs, product and customer trends, and regi
 ## Highlights
 
 - **Winner** - Vyom 2025 AI Agent Showcase
-- **Winner** - CIH 3.0 and Hakatron 3.0 hackathons
+- **Winner** - Hakatron 3.0
 - **Finalist** - Smart India Hackathon 2025
 - **Top 300** - Simhastha National Innovation Challenge
+- Participated in multiple hackathons and student innovation challenges
 - **Google Student Ambassador** - Gemini AI Initiative. Selected among the Top 250 ambassadors in India; ran GenAI sessions for 400+ students
 - **Recognition** - Felicitated by the Hon’ble Governor of Chhattisgarh
 
@@ -111,8 +112,6 @@ A Power BI dashboard exploring sales KPIs, product and customer trends, and regi
 
 - **IoT-Enabled Adaptive Speed Breaker Energy Harvesting System with Blockchain Integration** - Application No. 202521015312
 - **AI-Driven Solar-Powered Cryopreservation System for Sustainable Artificial Insemination** - Application No. 202521015413
-
----
 
 <p align="center">
   <i>Thanks for checking out my work.</i>
