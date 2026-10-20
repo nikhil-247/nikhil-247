@@ -32,6 +32,11 @@ A network traffic analysis project that combines Isolation Forest and Random For
 
 **Python · Scikit-learn · FastAPI · REST APIs · GitHub Actions**
 
+### [CertFlow - Bulk Certificate Generator](https://github.com/nikhil-247/Bulk-Certificate-Generator-)
+A full-stack FastAPI + React/TypeScript project for bulk certificate generation. It validates recipient lists, tracks background generation jobs per recipient, and provides individual PDF and ZIP downloads. Includes Docker setup, integration tests, and GitHub Actions checks.
+
+**Python · FastAPI · SQLAlchemy · React · TypeScript · Docker · GitHub Actions**
+
 ### [Self Love - AI Wellness Companion](https://github.com/nikhil-247/AI-Wellness-Assistant-project)
 A team project built with React, Flask, and OpenRouter. It supports AI chat, browser voice input, mood-based music suggestions, bedtime stories, and reminders.
 
