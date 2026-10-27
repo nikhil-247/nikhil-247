@@ -32,10 +32,20 @@ A network traffic analysis project that combines Isolation Forest and Random For
 
 **Python · Scikit-learn · FastAPI · REST APIs · GitHub Actions**
 
+### [Email Scheduler - Queue-Backed Campaign Scheduling](https://github.com/nikhil-247/Email-Scheduler)
+A full-stack TypeScript application using PostgreSQL, BullMQ, Redis, and Elasticsearch to schedule email campaigns, enforce sender limits, recover scheduled work after restarts, and support search. OAuth, SMTP delivery, and Slack notifications require local credentials and integration testing.
+
+**TypeScript · Express · BullMQ · Redis · PostgreSQL · Elasticsearch · Vitest**
+
 ### [CertFlow - Bulk Certificate Generator](https://github.com/nikhil-247/Bulk-Certificate-Generator-)
 A full-stack FastAPI + React/TypeScript project for bulk certificate generation. It validates recipient lists, tracks background generation jobs per recipient, and provides individual PDF and ZIP downloads. Includes Docker setup, integration tests, and GitHub Actions checks.
 
 **Python · FastAPI · SQLAlchemy · React · TypeScript · Docker · GitHub Actions**
+
+### [Build Security - Web/API Security Assessment](https://github.com/nikhil-247/Build-security)
+An evidence-first security assessment workspace with scoped HTTP checks, controlled two-identity authorization testing, an intentionally vulnerable local lab, OWASP/CWE mappings, remediation guidance, and JSON/HTML reports. Automated findings are signals for review, not proof of exploitable vulnerabilities.
+
+**Python · FastAPI · OWASP · CWE · Pytest · Security Testing**
 
 ### [Self Love - AI Wellness Companion](https://github.com/nikhil-247/AI-Wellness-Assistant-project)
 A team project built with React, Flask, and OpenRouter. It supports AI chat, browser voice input, mood-based music suggestions, bedtime stories, and reminders.
@@ -48,6 +58,11 @@ A team project built with React, Flask, and OpenRouter. It supports AI chat, bro
 A React and TypeScript dashboard using Supabase for access control, live crowd-zone updates, incident tracking, RFID distress records, and audit events. This is a prototype, and simulated integrations are noted in the repo.
 
 **React · TypeScript · Supabase · PostgreSQL · Realtime**
+
+### [BLE Device Communication & Monitoring](https://github.com/nikhil-247/BLE-Based-Device-Communication---Monitoring)
+A Python toolkit for Bluetooth Low Energy device discovery, advertisement metadata, GATT service inspection, connection-state monitoring, and structured event logging. Includes a hardware-free mock mode for development and CI; live scans depend on adapter and OS support.
+
+**Python · Bleak · Bluetooth Low Energy · GATT · Pytest**
 
 ### [Super Mart Sales Analysis - Power BI](https://github.com/nikhil-247/Data-Analysis-for-Super-Mart-on-Power-BI)
 A Power BI dashboard exploring sales KPIs, product and customer trends, and regional performance.
